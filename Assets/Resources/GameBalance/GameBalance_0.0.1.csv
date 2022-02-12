@@ -1,0 +1,5 @@
+ID,Multiplier
+id_mainAttributeDamageMultiplier,1
+id_health_strength_multiplier,18
+id_armor_agility_multiplier,0.7
+id_mana_intelligence_multiplier,13
